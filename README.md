@@ -2,6 +2,9 @@
 
 🔍 This project aims to design an integrated database system that supports the digitalization of recruitment processes, from managing job listing information to candidate selection.
 
+A well-structured relational database designed to support digital job recruitment workflows—from job listing management to candidate selection. Built using PostgreSQL and designed according to 3NF principles.
+The database is normalized to **Third Normal Form (3NF)** to eliminate redundancy and improve data integrity.
+
 ## Objectives
 1. Assist job seekers with an efficient job search feature, equipped with customizable filters based on their needs.
 2. Help companies effectively promote job opportunities to qualified candidates.
